@@ -3,18 +3,15 @@
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+Este es un repositorio de código para el video tutorial correspondiente.
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+Quizás se esté preguntando, ¿cuáles son los requisitos previos para construir un sitio web tan increíble? ¡No se preocupe, este curso es completamente apto para principiantes! Vamos a empezar fácil y luego pasar a temas más complejos. Cada paso del camino será explicado. Además de crear el sitio web, aprenderá:
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+- React Componentes funcionales y su reutilización.
+- Estructura de archivos y carpetas de React
+- Propiedades fundamentales de CSS para dominar flex y grid
+- Fundamentos del Modelo CSS BEM
+- Desde animaciones suaves y agradables hasta degradados complejos
+- Consultas de medios perfectamente ubicadas para una capacidad de respuesta satisfactoria que cubre casi dispositivos
+- Y al final, aprenderá cómo implementar sus sitios web en servidores extremadamente rápidos y darles un nombre de dominio personalizado.
