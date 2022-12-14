@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+### [Curso aprendido en JavaScript Mastery](https://www.youtube.com/watch?v=nzfk0VrDt7I&t=707s)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
